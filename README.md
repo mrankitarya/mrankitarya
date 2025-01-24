@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ankit Kumar! 👋
 
-<!--
-**mrankitarya/mrankitarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am an M.Sc Data Science student at the Defence Institute of Advanced Technology, Pune.  
+💻 I am passionate about solving complex problems using Machine Learning and Deep Learning.  
+🔒 My research focuses on Symmetric Cryptography and S-Box generation using Deep Learning.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **Generation of S-Box for Cryptography**: Constructing highly nonlinear Boolean functions using AI.  
+- **Real-Time Translation App**: Building an app that provides contextual translations across languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🌱 Interests
+- Cryptography & Security  
+- Machine Learning & Deep Learning  
+- NLP and Real-Time Applications  
+
+## 📫 How to Reach Me
+- LinkedIn: [](https://www.linkedin.com/in/ankitkumarjp/)
+- Email: [](mailto:ankitkumar210820003@gmail.com)
