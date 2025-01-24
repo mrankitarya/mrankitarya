@@ -16,5 +16,5 @@
 - NLP and Real-Time Applications  
 
 ## 📫 How to Reach Me
-- LinkedIn: [](https://www.linkedin.com/in/ankitkumarjp/)
-- Email: [](mailto:ankitkumar210820003@gmail.com)
+- LinkedIn: [open](https://www.linkedin.com/in/ankitkumarjp/)
+- Email: [open](mailto:ankitkumar210820003@gmail.com)
